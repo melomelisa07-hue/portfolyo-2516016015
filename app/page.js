@@ -21,6 +21,7 @@ export default async function Home() {
     <main style={{ padding: 20, maxWidth: 700, margin: '0 auto' }}>
       <h1>Melisa Karakoç</h1>
       <p><a href="/iletisim">İletişim</a> | <a href="/aydinlatma-metni">Aydınlatma metni</a></p>
+      <p><a href="/giris">Yönetici girişi</a></p>
 
       <h2>Öne çıkanlar</h2>
       <ol>
