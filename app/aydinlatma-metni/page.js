@@ -30,7 +30,7 @@ export default function AydinlatmaMetni() {
         Verileriniz üçüncü kişilerle pazarlama amacıyla paylaşılmaz. Sitenin
         çalışması için kullanılan altyapı sağlayıcılarına teknik zorunluluk
         nedeniyle aktarılır: veritabanı hizmeti sağlayıcısı Neon (verilerin
-        saklanması amacıyla) ve barındırma hizmeti sağlayıcısı Vercel (sitenin
+        saklanması amacıyla) ve barındırma hizmeti sağlayıcısı Vercel ve Netlify (sitenin
         yayınlanması ve çalıştırılması amacıyla). Bu sağlayıcıların sunucuları
         yurt dışında bulunabileceğinden, verileriniz yurt dışına aktarılabilir.
         Yasal bir zorunluluk doğarsa yetkili kamu kurumlarıyla paylaşım yapılabilir.
